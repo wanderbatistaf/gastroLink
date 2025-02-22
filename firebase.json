@@ -7,6 +7,7 @@
     {
       "source": "functions",
       "codebase": "default",
+      "secrets": ["SERVICE_ACCOUNT_KEY"], 
       "ignore": [
         "node_modules",
         ".git",
